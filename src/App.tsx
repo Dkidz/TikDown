@@ -106,7 +106,7 @@ function App() {
       <header className="container mx-auto px-4 py-4 md:py-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-1.5 sm:gap-2">
-            <img src="/src/icon.png" alt="TikDown" className="h-6 w-6 md:h-8 md:w-8 text-pink-500" />
+            <img src="https://i.ibb.co.com/LXBZ64Hc/Desain-tanpa-judul-2.png" alt="TikDown" className="h-6 w-6 md:h-8 md:w-8 text-pink-500" />
             <h1 className="text-xl md:text-2xl font-bold">TikDown</h1>
           </div>
           
@@ -301,7 +301,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
-              <img src="/icon.png" alt="icon" className="h-5 w-5 md:h-6 md:w-6 text-pink-500" />
+              <img src="https://i.ibb.co.com/LXBZ64Hc/Desain-tanpa-judul-2.png" alt="icon" className="h-5 w-5 md:h-6 md:w-6 text-pink-500" />
               <span className="text-lg md:text-xl font-bold">TikDown</span>
             </div>
             <div className="text-gray-400 text-xs md:text-sm">
