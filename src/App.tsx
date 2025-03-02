@@ -106,7 +106,7 @@ function App() {
       <header className="container mx-auto px-4 py-4 md:py-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-1.5 sm:gap-2">
-            <img src="/icon.png" alt="TikDown" className="h-6 w-6 md:h-8 md:w-8 text-pink-500" />
+            <img src="/assets/icon.png" alt="TikDown" className="h-6 w-6 md:h-8 md:w-8 text-pink-500" />
             <h1 className="text-xl md:text-2xl font-bold">TikDown</h1>
           </div>
           
